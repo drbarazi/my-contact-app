@@ -15,6 +15,7 @@ module.exports = {
 					"@theme": "./src/theme/index",
 					'@api': './src/api',
 					'@assets': './src/assets',
+					'@redux': './src/redux',
 				}
 			}
 		]
